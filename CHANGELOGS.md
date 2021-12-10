@@ -1,7 +1,43 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 # All The Fabric 2 | Patch Notes
 <h3>Be sure to always backup your world(s) before updating!</h3>
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h1>V3</h1>
+
+**Updated:**
++ Fabric Loader (0.12.8 → 0.12.9)
++ Disable Custom Worlds Advice (1.3 → 1.4)
++ Architectury API (2.6.35 → 2.8.46)
++ BetterNether (5.1.3 → 5.3.14)
++ Dynamic Surroundings (1.01 → 1.17.1)
++ Fabric API (0.43.1 → 0.44.0)
++ Farmer's Delight (0.1.2 → 0.1.3)
++ GeckoLib (3.0.29 → 3.0.30)
++ Gilded Armor (1.3.0 → 1.3.1)
++ Industrial Revolution (1.11.0 Alpha 2 → 1.12.0 BETA)
++ No Recipe Book (2.1 → 2.2)
++ Paradise Lost - The Aether Reborn (1.5.0 → 1.6.3.1)
++ Roughly Enough Items Fabric (6.2.335 → 6.2.347)
++ Simple Discord RPC (2.5 → 2.6)
+
+**Changed/Fixed**
++ Fixed 0day exploit.
++ Updated server files with patch.
++ Minor changes to the loading screen.
+
+
+**Added:**
++ NetherPortalFix
++ Balm
+
+
+**Removed:**
++ Draylar's Battle Towers
+
+Report any bugs & issues over at<br>
+https://github.com/AMPZNetwork/All-The-Fabric-2
+
+---------------------------------------------------------------------------------
 <h1>V2</h1>
 
 **Updated:**
