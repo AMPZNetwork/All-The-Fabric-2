@@ -1,7 +1,57 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 # All The Fabric 2 | Patch Notes
-<h3>Be sure to always backup your world(s) before updating!</h3>
+## Be sure to always backup your world(s) before updating!
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1>V4</h1>
 
+**Updated:**
++ Alaska Native Craft (1.3.1 → 1.3.3)
++ Architectury API (2.8.46 → 2.10.6)
++ Awesome Dungeon (1.1.2 → 2.0.5)
++ BCLib (0.5.5 → 0.5.6)
++ Carpet (1.4.56 → 1.4.57)
++ Carpet Extra (1.4.56 → 1.4.57)
++ Cloth API (2.0.54 → 2.1.62)
++ Cloth Config API (5.1.40 → 5.3.58)
++ Controlling (1.2.0 → 8.0.11)
++ Fabric Loader (0.12.9 → 0.13.3)
++ Fabric API (0.44.0 → 0.46.1)
++ Fabric Language Kotlin (1.6.0 → 1.6.10)
++ Fabric Waystones (2.2.2 → 2.2.3)
++ GildedArmor (1.3.1 → 1.3.2)
++ Paradise Lost - The Aether Reborn (1.6.3.1 → 1.6.5.3)
++ Pehkui (3.0.0 → 3.1.0)
++ Polymorph (0.0.14 → 0.0.15)
++ Roughly Enough Items (6.2.347 → 6.5.433)
++ Simple Discord RPC (2.6 → 2.7.1)
++ Sodium (0.3.3 → 0.3.4)
++ Xaero's Minimap (21.22.3 → 22.3.0)
+
+**Changed/Fixed**
++ Fixed "More Packs" and "CurseForge" button URLs.
++ Replaced the Main Menu soundtrack.
++ Replaced the default Minecraft font.
++ Updated Splash.txt.
++ Small changes to Simple RPC file.
++ Small changes to custom loading screen.
+
+
+**Added:**
++ Awesome Dungeon Ocean Edition
++ Decorative Blocks
++ Applied Energetics 2 Wireless Terminals
++ BisectHosting Server Integration Menu
++ Load My Resources
++ Iris Shaders
+
+
+**Removed:**
++ Enchantment Descriptions
+
+
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/All-The-Fabric-2)
+
+---------------------------------------------------------------------------------
 <h1>V3</h1>
 
 **Updated:**
@@ -34,8 +84,7 @@
 **Removed:**
 + Draylar's Battle Towers
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/All-The-Fabric-2
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/All-The-Fabric-2)
 
 ---------------------------------------------------------------------------------
 <h1>V2</h1>
@@ -90,15 +139,13 @@ https://github.com/AMPZNetwork/All-The-Fabric-2
 + Wavey Capes
 + Not Enough Crashes
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/All-The-Fabric-2
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/All-The-Fabric-2)
 
 ---------------------------------------------------------------------------------
 <h1>V1</h1>
 
 Initial BETA Release.
 
-Report any bugs & issues over at<br>
-https://github.com/AMPZNetwork/All-The-Fabric-2
+Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNetwork/All-The-Fabric-2)
 
 ---------------------------------------------------------------------------------
