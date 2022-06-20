@@ -1,8 +1,57 @@
-------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+<p align="center">
+| <img src="https://www.bisecthosting.com/images/CF/All_The_Fabric_2/BH_ATFC2_PromoCard.png" alt="Get your server today!"  width="1920" height="200"></a>|
+</p>
+
 # All The Fabric 2 | Patch Notes
-## Be sure to always backup your world(s) before updating!
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+<h1>V5</h1>
+
+_Minecraft 1.17.1_ | _Fabric Loader 0.14.8_
+
+<h4>⚠️⚠️ This pack has been discontinued. ⚠️⚠️<br>
+Please use our long term supported pack All The Fabric 3.</h4>
+
+**Updated:**
++ Architectury API (2.10.6 → 2.10.8)
++ BisectHosting Server Integration Menu (1.1 → 1.3)
++ Fabric Loader (0.13.3 → 0.14.7)
++ Fabric Language Kotlin (1.7.1 → 1.8.0)
++ Iris Shaders (1.2.1-rc1 → 1.2.5)
++ Pehkui (3.1.0 → 3.3.2)
++ Simple Discord RPC (2.7.1 → 3.0.1)
++ WTHIT (3.11.2 → 3.11.3)
++ Xaero's Minimap (22.3.0 → 22.9.2)
+
+**Changed/Fixed**
++ Fixed a crash when trying to delete a server.
++ Removed "Recommended Pack" button.
++ Removed "Suggestions" button as this pack is no longer supported.
++ Enabled REI cheatmode (creative mode only).
++ Improved Main Menu music behaviour.
++ New splash screen layout.
++ Performance Improvements.
+
+**Added:**
++ Axolotl Bucket Fix
++ Farmer's Delight
++ Continuity
++ Waystones
++ Balm
+
+**Removed:**
++ Load My Resources
++ Awesome Dungeon
++ Awesome Dungeon Ocean Edition
++ Library Ferret
++ Eating Animation
++ Audio Output
++ ConnectedTexturesMod
++ Cherished Worlds
+
+---------------------------------------------------------------------------------
 <h1>V4</h1>
+
+_Minecraft 1.17.1_ | _Fabric Loader 0.13.3_
 
 **Updated:**
 + Alaska Native Craft (1.3.1 → 1.3.3)
@@ -54,6 +103,8 @@ Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNet
 ---------------------------------------------------------------------------------
 <h1>V3</h1>
 
+_Minecraft 1.17.1_ | _Fabric Loader 0.12.9_
+
 **Updated:**
 + Fabric Loader (0.12.8 → 0.12.9)
 + Disable Custom Worlds Advice (1.3 → 1.4)
@@ -88,6 +139,8 @@ Report any bugs & issues over at our [GitHub Tracker](https://github.com/AMPZNet
 
 ---------------------------------------------------------------------------------
 <h1>V2</h1>
+
+_Minecraft 1.17.1_ | _Fabric Loader 0.12.8_
 
 **Updated:**
 + Fabric Loader (0.11.7 → 0.12.8)
